@@ -1,0 +1,29 @@
+.wheel {
+    width: 100px;
+    height: 100px;
+    animation: spin 0.5s linear infinite;
+  
+  }
+  
+  .parent {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .wheel:hover {
+    animation: none;
+  }
+  
+  @keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+  }
+  
+  @media screen and (max-width: 450px) {
+    .wheel {
+      width: 60px;
+      height: 60px;
+    } 
+    
+  }
