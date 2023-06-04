@@ -1,0 +1,51 @@
+.test_quest{
+    font-size: 20px;
+}
+
+.q-item {
+    margin-bottom: 50px;
+}
+
+.variant {
+    font-size: 16px;
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+input[type='radio'] {
+    margin-right: 10px;
+}
+.check {
+    border-radius: 20px;
+    width: 250px;
+    height: 60px;
+
+    border: none;
+    background-color: #86C232;
+
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+.check:active {
+    transform: scale(0.9);
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+@media (max-width: 450px) {
+img {
+    width: 100%;
+}
+}
+
+
+
