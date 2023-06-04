@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+}
+
+
+.homeImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-left: 0;
+}
+
+.loader {
+    width: 500px;
+    height: 200px;
+}
+
+.error {
+    width: 500px;
+    height: 200px;
+}
+
+.homeImg2 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-left: 0;
+}
+
+.carouselText {
+    color: black;
+}
