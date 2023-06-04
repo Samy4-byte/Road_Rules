@@ -1,0 +1,395 @@
+{
+    "tests": [
+      {
+        "id": "q4",
+        "questionNumber": 4,
+        "text": "В каком случае водителю разрешается поставить автомобиль на стоянку в указанном месте?",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOzlpBwpS8Jp2qjauRYAO2Lkq8Xz8teu9NBC4rar5m72nJilfl",
+        "variants": [
+          {
+            "id": "q4-v1",
+            "text": "Только если расстояние до сплошной линии разметки не менее 3 м",
+            "isCorrect": false
+          },
+          {
+            "id": "q4-v2",
+            "text": "Только если расстояние до края пересекаемой проезжей части не менее 5 м",
+            "isCorrect": false
+          },
+          {
+            "id": "q4-v3",
+            "text": "При соблюдении обоих перечисленных условий ",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": "q5",
+        "questionNumber": 5,
+        "text": "Двигаясь по левой полосе, водитель намерен перестроиться на правую. На каком из рисунков показана ситуация, в которой он обязан уступить дорогу?",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3YSnTvOy9VtpJcSRfBT-CEDgZ4KALTEn9ZWRWMV9de6gVGJ-t",
+        "variants": [
+          {
+            "id": "q5-v1",
+            "text": "На левом",
+            "isCorrect": false
+          },
+          {
+            "id": "q5-v2",
+            "text": "На правом",
+            "isCorrect": false
+          },
+          {
+            "id": "q5-v3",
+            "text": "На обоих",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": "q6",
+        "questionNumber": 6,
+        "text": "Кому Вы обязаны уступить дорогу при повороте налево?",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNH13FZtuGi7hwZVqyPGSv7558yM4X8JvKpe3OojW_VWW4L48z",
+        "variants": [
+          {
+            "id": "q6-v1",
+            "text": "Только автобусу",
+            "isCorrect": false
+          },
+          {
+            "id": "q6-v2",
+            "text": "Только легковому автомобилю",
+            "isCorrect": false
+          },
+          {
+            "id": "q6-v3",
+            "text": "Никому",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": "q7",
+        "questionNumber": 7,
+        "text": "Сколько полос для движения имеет данная дорога?",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYS1rx_KCop8rNgRQcYM8IJdW0e4e7bEYkypReGLiUI0AQsxj9",
+        "variants": [
+          {
+            "id": "q7-v1",
+            "text": "Две",
+            "isCorrect": false
+          },
+          {
+            "id": "q7-v2",
+            "text": "Четыре",
+            "isCorrect": true
+          },
+          {
+            "id": "q7-v3",
+            "text": "Пять",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q8",
+        "questionNumber": 8,
+        "text": "Можно ли Вам въехать на мост первым?",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdnWGZTA2cPb_9_hEnKjPCuiHeRgL8VXkOIWbtqDouESG7Z6KG",
+        "variants": [
+          {
+            "id": "q8-v1",
+            "text": "Можно",
+            "isCorrect": true
+          },
+          {
+            "id": "q8-v2",
+            "text": "Можно, если Вы не затрудните движение встречному автомобилю",
+            "isCorrect": false
+          },
+          {
+            "id": "q8-v3",
+            "text": "Нельзя",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q9",
+        "questionNumber": 9,
+        "text": "Что запрещено в зоне действия этого знака?",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE2C50Mgwp3VrHp3cYk3pBgebapvSS-xY0erjwc1RJ2W3m_too",
+        "variants": [
+          {
+            "id": "q9-v1",
+            "text": "Движение любых транспортных средств",
+            "isCorrect": false
+          },
+          {
+            "id": "q9-v2",
+            "text": "Движение всех транспортных средств со скоростью не более 20 км/ч",
+            "isCorrect": false
+          },
+          {
+            "id": "q9-v3",
+            "text": "Движение механических транспортных средств ",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": "q10",
+        "questionNumber": 10,
+        "text": "Поднятая вверх рука водителя легкового автомобиля является сигналом, информирующим Вас о его намерении:",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTovc6yeLBNboPb3x5sSVQvLYSZiiPP97Y6WR_u2joR04w9mdiX",
+        "variants": [
+          {
+            "id": "q10-v1",
+            "text": "Повернуть направо",
+            "isCorrect": false
+          },
+          {
+            "id": "q10-v2",
+            "text": "Продолжить движение прямо",
+            "isCorrect": false
+          },
+          {
+            "id": "q10-v3",
+            "text": "Снизить скорость, чтобы остановиться и уступить дорогу мотоциклу ",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": "q11",
+        "questionNumber": 11,
+        "text": "Можно ли Вам выполнить разворот в этом месте?",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmcN_h0bvXZcYkmrCbmPYHicpfosFHlRpayD4gg2A6J1DCAu0Z",
+        "variants": [
+          {
+            "id": "q11-v1",
+            "text": "Можно ",
+            "isCorrect": true
+          },
+          {
+            "id": "q11-v2",
+            "text": "Можно только при отсутствии приближающегося поезда",
+            "isCorrect": false
+          },
+          {
+            "id": "q11-v3",
+            "text": "Нельзя",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q12",
+        "questionNumber": 12,
+        "text": "Вы можете начать обгон:",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJExoHyDah54SKR50COZJvyMC-rPlO-GOtqYscFhk5qRwECDp-",
+        "variants": [
+          {
+            "id": "q12-v1",
+            "text": "На переезде",
+            "isCorrect": false
+          },
+          {
+            "id": "q12-v2",
+            "text": "Непосредственно после переезда",
+            "isCorrect": true
+          },
+          {
+            "id": "q12-v3",
+            "text": "Через 100 м после переезда",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q13",
+        "questionNumber": 13,
+        "text": "По какой траектории Вам можно выполнить поворот налево?",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJS4FI35oet4fjsKGn4ndigcXHKT-0QokRxJP_nqquMnj8PAFg",
+        "variants": [
+          {
+            "id": "q13-v1",
+            "text": "Только по А",
+            "isCorrect": false
+          },
+          {
+            "id": "q13-v2",
+            "text": "Только по Б",
+            "isCorrect": true
+          },
+          {
+            "id": "q13-v3",
+            "text": "По любой из указанных",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q14",
+        "questionNumber": 14,
+        "text": "Вы намерены повернуть направо. Можете ли Вы приступить к повороту?",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYRXLgoRoRfvHMzbQo89dXOvTipDyWuFpnlWyRCyeH6X1k1TZ8",
+        "variants": [
+          {
+            "id": "q14-v1",
+            "text": "Можете",
+            "isCorrect": false
+          },
+          {
+            "id": "q14-v2",
+            "text": "Можете, когда убедитесь, что при этом не будут созданы помехи грузовому автомобилю",
+            "isCorrect": true
+          },
+          {
+            "id": "q14-v3",
+            "text": "Не можете",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q15",
+        "questionNumber": 15,
+        "text": "Сколько пересечений проезжих частей имеет этот перекресток?",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1YMgeOOkEomYu3153MnlReuZFT3O3KJgI_4dMPx97B32o7dFn",
+        "variants": [
+          {
+            "id": "q15-v1",
+            "text": "Одно",
+            "isCorrect": false
+          },
+          {
+            "id": "q15-v2",
+            "text": "Два",
+            "isCorrect": true
+          },
+          {
+            "id": "q15-v3",
+            "text": "Четыре",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q16",
+        "questionNumber": 16,
+        "text": "Эти знаки обязывают соблюдать дистанцию:",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvweFbpX5xQXtrj_MgnRkLl2Oe7aSNe8QAr7DR3n8uz_-SIoXW",
+        "variants": [
+          {
+            "id": "q16-v1",
+            "text": "Менее 70 м на протяжении 100 м",
+            "isCorrect": false
+          },
+          {
+            "id": "q16-v2",
+            "text": "Не менее 70 м на протяжении 100 м",
+            "isCorrect": true
+          },
+          {
+            "id": "q16-v3",
+            "text": "От 70 м до 100 м",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q17",
+        "questionNumber": 17,
+        "text": "В каких направлениях вам разрешено продолжить движение?",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1NvkbJv2gCj2Rto6o7-rsh67anxj3QRnXfDGXto5c8OUPKo24",
+        "variants": [
+          {
+            "id": "q17-v1",
+            "text": "Только прямо",
+            "isCorrect": false
+          },
+          {
+            "id": "q17-v2",
+            "text": "Прямо и налево",
+            "isCorrect": true
+          },
+          {
+            "id": "q17-v3",
+            "text": "Прямо, налево или в обратном направлении",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q18",
+        "questionNumber": 18,
+        "text": "На каком расстоянии от знака Вам разрешено поставить автомобиль на стоянку?",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPOYz8ccJmWRjN6AQoC5tMadE2TprWybDYLLeqAISQwbrQlFIf",
+        "variants": [
+          {
+            "id": "q18-v1",
+            "text": "Не менее 5 м",
+            "isCorrect": false
+          },
+          {
+            "id": "q18-v2",
+            "text": "Не менее 10 м",
+            "isCorrect": false
+          },
+          {
+            "id": "q18-v3",
+            "text": "Не менее 15 м",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": "q19",
+        "questionNumber": 19,
+        "text": "Эти знаки предупреждают вас:",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6I__cEkLb7G456dK0-nVkfqKNPdvil1X4cgW-KvylNaJSMTY",
+        "variants": [
+          {
+            "id": "q19-v1",
+            "text": "О приближении к железнодорожному переезду с тремя путями",
+            "isCorrect": false
+          },
+          {
+            "id": "q19-v2",
+            "text": "О наличии через 150300 м железнодорожного переезда без шлагбаума",
+            "isCorrect": true
+          },
+          {
+            "id": "q19-v3",
+            "text": "О наличии через 50100 м железнодорожного переезда",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": "q20",
+        "questionNumber": 20,
+        "text": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте?",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLkq9RjLqXKD6T8Sn-ElygA764fso4dKdaFNmFy9qWECrWjTB-",
+        "variants": [
+          {
+            "id": "q20-v1",
+            "text": "Разрешено",
+            "isCorrect": true
+          },
+          {
+            "id": "q20-v2",
+            "text": "Разрешено, если Вы проживаете рядом с этим местом",
+            "isCorrect": false
+          },
+          {
+            "id": "q20-v3",
+            "text": "Запрещено",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
