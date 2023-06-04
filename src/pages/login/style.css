@@ -1,0 +1,143 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 536px;
+    box-shadow: 0px 4px 40px rgba(66, 103, 41, 0.74);
+    border-radius: 20px;
+    background-color: #61892F;
+    margin: 100px auto;
+  }
+  
+  .auth1 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #fff;
+    margin: 0;
+  }
+  
+  .registr {
+    color: #13487c;
+    text-decoration: none;
+  }
+  
+  .block1:hover {
+    border: 1px solid #45BDB6;
+  }
+  
+  .block1 {
+    border-radius: 20px;
+    width: 80%;
+    height: 60px;
+    margin-top: 30px;
+    background-color: #EEEEEE;
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 33px;
+    border: none;
+  }
+  
+  
+  .enter {
+    border-radius: 20px;
+    width: 80%;
+    height: 60px;
+    margin: 30px 68px 0;
+    border: none;
+    background-color: #86C232;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+  }
+  
+  .enter:hover {
+    transform: scale(0.9);
+    transition: 0.4s;
+  }
+  
+  .enter:active {
+    transform: scale(0.9);
+  }
+  
+  
+  .link {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .auth1-p {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  
+  @media screen and (max-width: 900px) {
+    .container {
+      width: 50%;
+      height: 350px;
+    }
+  
+    .block1 {
+      width: 80%;
+      height: 50px;
+      font-size: 16px;
+      margin-top: 20px;
+  
+    }
+  
+    .auth1 {
+      font-size: 26px;
+    }
+  
+    .enter {
+      width: 80%;
+      height: 50px;
+      font-size: 15px;
+      margin-top: 20px;
+    }
+  
+    .auth1-p {
+      font-size: 15px;
+      margin: 20px 0 0;
+    }
+  
+  }
+  
+  @media screen and (max-width: 450px) {
+    .container {
+      width: 90%;
+      height: 300px;
+    }
+  
+    .block1 {
+      width: 80%;
+      height: 40px;
+      font-size: 15px;
+      margin-top: 10px;
+  
+    }
+  
+    .auth1 {
+      font-size: 26px;
+    }
+  
+    .enter {
+      width: 80%;
+      height: 40px;
+      font-size: 15px;
+      margin-top: 10px;
+    }
+  
+    .auth1-p {
+      font-size: 15px;
+      margin: 20px 0 0;
+    }
+  
+  }
