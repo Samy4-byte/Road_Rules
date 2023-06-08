@@ -1,5 +1,5 @@
 
-Road Rules Test
+# Road Rules Test
 Together with a team of 2 people, we created test with timer on the React. 
 
 ## Main features:
